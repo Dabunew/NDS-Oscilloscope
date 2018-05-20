@@ -1,0 +1,1 @@
+<Project name="NDS_OSC"><Folder name="arm9"><Folder name="source"><File path="arm9\source\arm9.cpp"></File><File path="arm9\source\ifft.cpp"></File></Folder><File path="arm9\Makefile"></File></Folder><Folder name="arm7"><Folder name="source"><File path="arm7\source\arm7.c"></File></Folder><File path="arm7\Makefile"></File></Folder><File path="Makefile"></File></Project>
